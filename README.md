@@ -1,9 +1,9 @@
 # LeetCode
 A more organised LeetCode  solution entry into repositories, organised in terms of difficulty and number given in the LeetCode problems tab.
 <br>
-Each folder (Easy, Medium, Hard) contains a README.md file with the solutions and questions.
+Each folder (Easy, Medium, Hard) contains each question as a python file with the solutions and questions (with examples) included within.
 <br>
-(Its probably going to be long sorry). Try it out for yourself [here](https://leetcode.com/).
+**Try it out for yourself [here](https://leetcode.com/).**
 <br>
 <br>
 # Contribution
