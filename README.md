@@ -7,4 +7,4 @@ Each folder (Easy, Medium, Hard) contains a README.md file with the solutions an
 <br>
 <br>
 # Contribution
-<br>Fork this repo add to it and send in a pull request, for any doubts check [here](https://help.github.com/en/github/building-a-strong-community/encouraging-helpful-contributions-to-your-project-with-labels).
+Fork this repo add to it and send in a pull request, for any doubts check [here](https://help.github.com/en/github/building-a-strong-community/encouraging-helpful-contributions-to-your-project-with-labels).
